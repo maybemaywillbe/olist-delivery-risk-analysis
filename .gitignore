@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+node_modules/
+work/
+outputs/order_level_kpis.csv
+outputs/high_risk_examples.csv
+outputs/weekly_candidates.csv
+outputs/workbook_preview.png
+outputs/preview_*.png

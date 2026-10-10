@@ -1,0 +1,5 @@
+table,rows,columns,key_duplicates,exact_duplicates,missing_cells
+orders,99441,8,0,0,4908
+items,112650,7,0,0,0
+sellers,3095,4,0,0,0
+customers,99441,5,0,0,0

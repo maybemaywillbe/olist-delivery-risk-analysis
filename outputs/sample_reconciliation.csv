@@ -1,0 +1,9 @@
+reason,orders
+All source orders,99441
+Status not delivered,2963
+"Delivered status, missing actual or promised date",8
+"Observed delivery, chronological anomaly excluded",188
+Valid customer-delivery KPI denominator,96282
+"Multi-seller, excluded from handover study",1252
+Single-seller with missing carrier/deadline,1
+Valid single-seller handover comparison,95029

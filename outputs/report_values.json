@@ -1,0 +1,15 @@
+{
+  "source_orders": 99441,
+  "valid_orders": 96282,
+  "late_orders": 7823,
+  "late_rate": "8.13%",
+  "calendar_late_rate": "6.78%",
+  "march_late_rate": "21.36%",
+  "march_n": 7003,
+  "handover_difference_pp": "17.96",
+  "relative_risk": "3.73",
+  "risk_found": 845,
+  "fifo_found": 487,
+  "top_k": 3807,
+  "high_tier_rate": "18.24%"
+}
